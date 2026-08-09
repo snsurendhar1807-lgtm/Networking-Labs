@@ -13,6 +13,7 @@ A basic wireless network simulation created using Cisco Packet Tracer to underst
 - Wireless Access Point
 - PCs
 - Laptop
+- Smart phone
 
 ## Concepts Practiced
 - Wireless Networking
