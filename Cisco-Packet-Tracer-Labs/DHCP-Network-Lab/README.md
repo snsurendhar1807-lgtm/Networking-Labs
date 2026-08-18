@@ -31,7 +31,6 @@ A basic DHCP network simulation created using Cisco Packet Tracer to demonstrate
 * **IP Addressing:** Static server setup vs. dynamic host address allocation.
 * **Client-Server Architecture:** Centralizing network management services.
 * **Switch Connectivity:** Star topology layout and Ethernet port negotiations.
-* **Network Verification:** Using `ping` and `ipconfig` commands to test reachability and lease status.
 
 ---
 
